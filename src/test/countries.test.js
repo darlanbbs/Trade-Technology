@@ -1,6 +1,6 @@
 /* eslint-disable no-undef */
 
-// Função para fazer a chamada à API-FOOTBALL
+
 async function callApi(url) {
   const options = {
     method: "GET",
