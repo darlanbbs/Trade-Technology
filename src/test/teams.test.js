@@ -4,7 +4,7 @@ async function callApi(url) {
   const options = {
     method: "GET",
     headers: {
-      "X-RapidAPI-Key": "09bd104317msh25741687f1a3c4ep174b1ajsn4d3c3b3060a6",
+       "X-RapidAPI-Key": import.meta.env.VITE_FOOTBAL_API_KEY,
       "X-RapidAPI-Host": "api-football-v1.p.rapidapi.com",
     },
   };
