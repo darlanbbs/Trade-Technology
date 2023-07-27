@@ -1,4 +1,4 @@
-# Teams Finder with Footabel-API
+# Teams Finder with Football-API
 
 # Teste Técnico de Front-end 
 
